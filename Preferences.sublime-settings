@@ -1,9 +1,11 @@
 {
+	"create_window_at_startup": false,
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"open_files_in_new_window": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
