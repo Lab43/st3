@@ -1,9 +1,11 @@
 {
+	"close_windows_when_empty": true,
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"show_full_path": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
