@@ -1,12 +1,12 @@
 {
-	"create_window_at_startup": false,
 	"close_windows_when_empty": true,
+	"create_window_at_startup": false,
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"open_files_in_new_window": false,
+	"open_files_in_new_window": true,
 	"show_full_path": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
